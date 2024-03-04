@@ -13,7 +13,7 @@ public class ejercico1Nombres {
 		nombres.add("Luis");
 		nombres.add("Carlos");
 		nombres.add("Ana");
-		
+		nombres.add("eloy");
 		
 		int contador = 1;
 		for (String nombre : nombres) {
