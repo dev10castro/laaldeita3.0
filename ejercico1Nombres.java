@@ -11,7 +11,7 @@ public class ejercico1Nombres {
 		nombres.add("Paco");
 		nombres.add("Pedro");
 		nombres.add("Paco Mer");
-		nombres.add("Carlos");
+		nombres.add("Carlos iyiy");
 		nombres.add("Misi Potter");
 		
 		
