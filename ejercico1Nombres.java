@@ -8,11 +8,11 @@ public class ejercico1Nombres {
 		
 		ArrayList<String> nombres = new ArrayList<String>();
 		
-		nombres.add("Juan");
+		nombres.add("Paco");
 		nombres.add("Pedro");
-		nombres.add("Luis");
+		nombres.add("Paco Mer");
 		nombres.add("Carlos");
-		nombres.add("Ana");
+		nombres.add("Misi Potter");
 		
 		
 		int contador = 1;
