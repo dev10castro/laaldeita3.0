@@ -8,7 +8,7 @@ public class ejercico1Nombres {
 		
 		ArrayList<String> nombres = new ArrayList<String>();
 		
-		nombres.add("Juan");
+		nombres.add("Cindy Nero");
 		nombres.add("Pedro");
 		nombres.add("Luis");
 		nombres.add("Carlos");
