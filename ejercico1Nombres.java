@@ -8,17 +8,11 @@ public class ejercico1Nombres {
 		
 		ArrayList<String> nombres = new ArrayList<String>();
 		
-		nombres.add("Juan");
+		nombres.add("Paco");
 		nombres.add("Pedro");
-<<<<<<< HEAD
 		nombres.add("Paco Mer");
-		nombres.add("Carlos iyiy");
-		nombres.add("Misi Potter");
-=======
-		nombres.add("Luis");
 		nombres.add("Carlos");
-		nombres.add("Ana");
->>>>>>> parent of 2da2c2a (Alterasiones)
+		nombres.add("Misi Potter");
 		
 		
 		int contador = 1;
