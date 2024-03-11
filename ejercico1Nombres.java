@@ -10,9 +10,26 @@ public class ejercico1Nombres {
 		
 		nombres.add("Juan");
 		nombres.add("Pedro");
+<<<<<<< HEAD
+<<<<<<< HEAD
 		nombres.add("Luis");
 		nombres.add("Carlos");
 		nombres.add("Ana");
+=======
+=======
+>>>>>>> parent of 526e18a (Revert "revert")
+		nombres.add("Paco Mer");
+		nombres.add("Carlos iyiy");
+		nombres.add("Misi Potter");
+<<<<<<< HEAD
+>>>>>>> parent of 9e99a77 (revert)
+=======
+=======
+		nombres.add("Luis");
+		nombres.add("Carlos");
+		nombres.add("Ana");
+>>>>>>> parent of 2da2c2a (Alterasiones)
+>>>>>>> parent of 526e18a (Revert "revert")
 		
 		
 		int contador = 1;
