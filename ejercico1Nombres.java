@@ -8,7 +8,7 @@ public class ejercico1Nombres {
 		
 		ArrayList<String> nombres = new ArrayList<String>();
 		
-		nombres.add("Paco");
+		nombres.add("Juan");
 		nombres.add("Pedro");
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -16,6 +16,9 @@ public class ejercico1Nombres {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 9375912 (antes de unir ramas)
 		nombres.add("Luis");
 		nombres.add("Carlos");
 		nombres.add("Ana");
@@ -47,6 +50,7 @@ public class ejercico1Nombres {
 		nombres.add("Carlos");
 		nombres.add("Ana");
 >>>>>>> parent of 9df8360 (antes de unir ramas)
+<<<<<<< HEAD
 =======
 		nombres.add("Paco Mer");
 		nombres.add("Carlos");
@@ -57,6 +61,8 @@ public class ejercico1Nombres {
 		nombres.add("Carlos");
 		nombres.add("Misi Potter");
 >>>>>>> parent of 61aa8a3 ("la_modificasio")
+=======
+>>>>>>> parent of 9375912 (antes de unir ramas)
 		
 		
 		int contador = 1;
