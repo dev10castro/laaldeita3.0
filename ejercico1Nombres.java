@@ -12,6 +12,7 @@ public class ejercico1Nombres {
 		nombres.add("Pedro");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		nombres.add("Luis");
 		nombres.add("Carlos");
 		nombres.add("Ana");
@@ -25,10 +26,18 @@ public class ejercico1Nombres {
 >>>>>>> parent of 9e99a77 (revert)
 =======
 =======
+		nombres.add("Paco Mer");
+		nombres.add("Carlos iyiy");
+		nombres.add("Misi Potter");
+>>>>>>> parent of 526e18a (Revert "revert")
+=======
 		nombres.add("Luis");
 		nombres.add("Carlos");
 		nombres.add("Ana");
 >>>>>>> parent of 2da2c2a (Alterasiones)
+<<<<<<< HEAD
+>>>>>>> parent of 526e18a (Revert "revert")
+=======
 >>>>>>> parent of 526e18a (Revert "revert")
 		
 		
