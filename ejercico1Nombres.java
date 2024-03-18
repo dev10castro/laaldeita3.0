@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class ejercico1Nombres {
 
-	public static void main(String[] args) {
+	public sta bn b bbn b  n bn  bn  ntic void main(String[] args) {
 		
 		ArrayList<String> nombres = new ArrayList<String>();
 		
