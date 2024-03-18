@@ -15,6 +15,7 @@ public class ejercico1Nombres {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		nombres.add("Luis");
 		nombres.add("Carlos");
 		nombres.add("Ana");
