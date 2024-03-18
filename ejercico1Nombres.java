@@ -22,7 +22,7 @@ public class ejercico1Nombres {
 =======
 >>>>>>> parent of 526e18a (Revert "revert")
 		nombres.add("Paco Mer");
-		nombres.add("Carlos iyiy");
+		nombres.add("Carlos");
 		nombres.add("Misi Potter");
 <<<<<<< HEAD
 >>>>>>> parent of 9e99a77 (revert)
