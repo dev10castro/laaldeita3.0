@@ -52,6 +52,11 @@ public class ejercico1Nombres {
 		nombres.add("Carlos");
 		nombres.add("Misi Potter");
 >>>>>>> parent of 61aa8a3 ("la_modificasio")
+=======
+		nombres.add("Paco Mer");
+		nombres.add("Carlos");
+		nombres.add("Misi Potter");
+>>>>>>> parent of 61aa8a3 ("la_modificasio")
 		
 		
 		int contador = 1;
