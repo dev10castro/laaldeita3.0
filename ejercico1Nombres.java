@@ -13,6 +13,7 @@ public class ejercico1Nombres {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		nombres.add("Luis");
 		nombres.add("Carlos");
 		nombres.add("Ana");
@@ -39,6 +40,11 @@ public class ejercico1Nombres {
 >>>>>>> parent of 526e18a (Revert "revert")
 =======
 >>>>>>> parent of 526e18a (Revert "revert")
+=======
+		nombres.add("Luis");
+		nombres.add("Carlos");
+		nombres.add("Ana");
+>>>>>>> parent of 9df8360 (antes de unir ramas)
 		
 		
 		int contador = 1;
