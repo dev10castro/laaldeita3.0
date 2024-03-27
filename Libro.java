@@ -12,11 +12,11 @@ public class Libro {
 	 * @param autor
 	 * @param precio
 	 */
-	public Libro(String nombre, String autor, String precio) {
+	public Libro(String nombre1, String autor1, String precio1) {
 		super();
-		this.nombre = nombre;
-		this.autor = autor;
-		this.precio = precio;
+		this.nombre = nombre1;
+		this.autor = autor1;
+		this.precio = precio1;
 	}
 
 	/**
