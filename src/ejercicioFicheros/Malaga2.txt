@@ -1,0 +1,5 @@
+Malaga es una ciudad bonita
+con su buena gente
+con sus buenas playas
+Esto es parte del
+archivo Malaga3.txt
